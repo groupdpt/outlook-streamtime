@@ -12,8 +12,8 @@
   <Description DefaultValue="Search Streamtime jobs and set them as your email subject."/>
 
   <!-- Replace the URL below with your GitHub Pages URL once deployed -->
-  <IconUrl DefaultValue="https://groupdpt.github.io/outlook-streamtime/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://groupdpt.github.io/outlook-streamtime/icon-64.png"/>
+<IconUrl DefaultValue="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/64px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"/>
+<HighResolutionIconUrl DefaultValue="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/64px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"/>
   <SupportUrl DefaultValue="https://groupdpt.github.io/outlook-streamtime"/>
 
   <Permissions>ReadWriteItem</Permissions>
